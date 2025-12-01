@@ -1,1 +1,40 @@
+# 📄 Projeto de Discovery
+---
+
+## Planejamento e Objetivos
+
+<img width="846" height="455" alt="image" src="https://github.com/user-attachments/assets/3fc8d913-7b98-4868-8d78-9ac131d49a4d" />
+
+## Áreas Mapeadas
+Os principais objetivos desse trabalho: Entendimento e Mapeamento dos Processos (AS IS)
+
+1. **Obter uma visão real e objetiva:**
+   - Entender a situação atual da operação, e não apenas como ela é percebida ou como deveria ser teoricamente.
+     
+2. **Identificar ineficiências e gargalos**
+   - Localizar pontos de desperdício, retrabalho, redundâncias, atrasos e falhas de comunicação.
+
+3. **Medir a efetividade**
+   - Avaliar se as atividades atuais estão alinhadas e contribuem para os objetivos estratégicos da organização.
+
+4. **Padronizar o entendimento**
+   - Garantir que todos os envolvidos tenham a mesma compreensão do processo, o que facilita a comunicação e o treinamento.
+    
+5. **Servir como base para melhorias (To Be)**
+   - Criar a fundação sólida para o desenho do processo futuro desejado ("To Be"), permitindo a comparação entre o estado atual e o ideal.
+
+<img width="763" height="455" alt="image" src="https://github.com/user-attachments/assets/b62d8ecc-b79c-4d6f-8617-477fb9d3d59a" />
+
+---
+
+## Os resultados esperados do trabalho de Discovery e Mapeamento AS IS
+- Documentação abrangente dos processos: Mapas de processos (fluxogramas) e descrições detalhadas que servem como referência oficial para a empresa.
+- Identificação de oportunidades de melhoria: Um relatório ou lista clara de problemas, ineficiências e áreas com potencial para otimização ou automação.
+- Redução de custos e desperdícios: Ao visualizar os pontos fracos, a empresa pode atuar para reduzir despesas desnecessárias.
+- Aumento da transparência e controle: Uma compreensão clara dos fluxos de trabalho melhora a visibilidade da gestão sobre as operações.
+- Base para a tomada de decisão: Informações concretas e baseadas em dados reais para decidir sobre investimentos em tecnologia, mudanças organizacionais ou novos procedimentos. 
+
+<img width="793" height="461" alt="image" src="https://github.com/user-attachments/assets/f4f79319-fef2-4c9b-b3d0-668432757116" />
+
+---
 
