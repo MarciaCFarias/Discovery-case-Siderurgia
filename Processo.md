@@ -1,9 +1,7 @@
 # 📄 Projeto de Discovery
 ---
-
-## Planejamento e Objetivos
+# Planejamento e Objetivos
 ---
-
 **Stakeholders Envolvidos**
 
 Time de Negócio  
@@ -13,7 +11,6 @@ Especialistas de Processo
 Time de Automação e Análise  
 
 ---
-
 **Metodologia Aplicada**
 
 Entrevistas individuais e coletivas
