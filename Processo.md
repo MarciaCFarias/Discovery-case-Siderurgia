@@ -3,7 +3,7 @@
 
 ## Planejamento e Objetivos
 
-<img width="846" height="455" alt="image" src="https://github.com/user-attachments/assets/3fc8d913-7b98-4868-8d78-9ac131d49a4d" />
+<img width="924" height="486" alt="image" src="https://github.com/user-attachments/assets/1a47cc01-eea2-46fe-9410-917f52363837" />
 
 ---
 
@@ -25,7 +25,7 @@ Os principais objetivos desse trabalho:
 5. **Servir como base para melhorias (To Be)**
    - Criar a fundação sólida para o desenho do processo futuro desejado ("To Be"), permitindo a comparação entre o estado atual e o ideal.
 
-<img width="763" height="455" alt="image" src="https://github.com/user-attachments/assets/b62d8ecc-b79c-4d6f-8617-477fb9d3d59a" />
+<img width="891" height="507" alt="image" src="https://github.com/user-attachments/assets/e643db75-6580-4089-b07f-b1832367f771" />
 
 ---
 
@@ -36,7 +36,7 @@ Os principais objetivos desse trabalho:
 - **Aumento da transparência e controle**: Uma compreensão clara dos fluxos de trabalho melhora a visibilidade da gestão sobre as operações.
 - **Base para a tomada de decisão**: Informações concretas e baseadas em dados reais para decidir sobre investimentos em tecnologia, mudanças organizacionais ou novos procedimentos. 
 
-<img width="793" height="461" alt="image" src="https://github.com/user-attachments/assets/f4f79319-fef2-4c9b-b3d0-668432757116" />
+<img width="884" height="508" alt="image" src="https://github.com/user-attachments/assets/161168dc-d2c3-4738-b53b-9cd9e2e8be1c" />
 
 ---
 
