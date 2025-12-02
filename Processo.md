@@ -1,26 +1,24 @@
 # 📄 Projeto de Discovery
----
+
 # Planejamento e Objetivos
----
+
 **Stakeholders Envolvidos**
 
-Time de Negócio  
-Time Técnico  
-Gestores das Áreas Impactadas  
-Especialistas de Processo  
-Time de Automação e Análise  
+- Time de Negócio  
+- Time Técnico  
+- Gestores das Áreas Impactadas  
+- Especialistas de Processo  
+- Time de Automação e Análise  
 
----
 **Metodologia Aplicada**
 
-Entrevistas individuais e coletivas
-Análise documental
-Acompanhamento operacional
-Mapeamento detalhado (BPMN / fluxos)
-Identificação de riscos e oportunidades
-Construção de hipóteses de solução
+- Entrevistas individuais e coletivas
+- Análise documental
+- Acompanhamento operacional
+- Mapeamento detalhado (BPMN / fluxos)
+- Identificação de riscos e oportunidades
+- Construção de hipóteses de solução
 
----
 <img width="924" height="486" alt="image" src="https://github.com/user-attachments/assets/1a47cc01-eea2-46fe-9410-917f52363837" />
 
 ---
@@ -56,5 +54,4 @@ Os principais objetivos desse trabalho:
 
 <img width="884" height="508" alt="image" src="https://github.com/user-attachments/assets/161168dc-d2c3-4738-b53b-9cd9e2e8be1c" />
 
----
 
