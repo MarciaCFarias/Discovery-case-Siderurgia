@@ -54,4 +54,7 @@ Os principais objetivos desse trabalho:
 
 <img width="884" height="508" alt="image" src="https://github.com/user-attachments/assets/161168dc-d2c3-4738-b53b-9cd9e2e8be1c" />
 
+---
+
+*Todo o conteúdo foi elaborado sem citar sistemas ou clientes específicos, preservando a confidencialidade.
 
